@@ -6,7 +6,6 @@ Data enthusiast with a background in Chemical Engineering.
 * 🌱 Currently learning SQL
 * ✨ Passionate about creating visually appealing things, e.g. code, reports, dashboards
 * 📃 I like to document all my projects to make them more understandable and useful
-![Visits Badge](https://badges.pufler.dev/visits/herrerovir/herrerovir)
 
 ## 💪 Skills & tools
 <div>
