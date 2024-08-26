@@ -24,7 +24,14 @@ Data enthusiast with a background in Chemical Engineering.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herrerovir&hide_progress=true&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7&card_width=495)
 
 ## 🌟 Featured
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=Gmail-weekly-email-automation&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=Automated-back-up-to-google-drive&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7)
+<p align="left">
+<a href="https://github.com/herrerovir/Gmail-weekly-email-automation">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=Gmail-weekly-email-automation&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/herrerovir/Automated-back-up-to-google-drive">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=Automated-back-up-to-google-drive&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7" />
+</a>
+</p>
 
 
