@@ -1,6 +1,6 @@
-![banner_blue20](https://github.com/user-attachments/assets/4de0281c-0212-405c-a030-29ff31b04138)
+![banner_blue_black_15](https://github.com/user-attachments/assets/5af7fea7-a3c9-48a7-95b1-addad8a40bd6)
 
-# 👀 About me
+## 👀 About me
 Data enthusiast with a background in Chemical Engineering.
 * 🐍 Python lover
 * 🌱 Currently learning SQL
@@ -19,7 +19,12 @@ Data enthusiast with a background in Chemical Engineering.
 </div>
 
 ## 🔥 Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=herrerovir&theme=github-dark-blue)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=herrerovir&theme=github-dark-blue&border=3090C7&sideNums=3090C7&ring=3090C7&fire=EB5454&stroke=3090C7)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herrerovir&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent&card_width=495&title_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herrerovir&hide_progress=true&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7&card_width=495)
+
+## 🌟 Featured
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=Gmail-weekly-email-automation&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=Automated-back-up-to-google-drive&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7)
+
 
