@@ -56,4 +56,7 @@ Data enthusiast with a background in Chemical Engineering.
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=SQL-world-layoffs&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7" />
 </a>
 <span>&nbsp;</span>
+<a href="https://github.com/herrerovir/SQL-world-life-expectancy">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=SQL-world-life-expectancy&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7" />
+</a>
 </p>
