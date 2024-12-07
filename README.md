@@ -3,7 +3,7 @@
 ## 👀 About me
 Data enthusiast with a background in Chemical Engineering.
 * 🐍 Python lover
-* 🌱 Currently learning SQL + ML
+* 🌱 Currently learning ML
 * ✨ Passionate about creating visually appealing things, e.g. code, reports, dashboards
 * 📃 I like to document all my projects to make them more understandable and useful
 
@@ -58,5 +58,14 @@ Data enthusiast with a background in Chemical Engineering.
 <span>&nbsp;</span>
 <a href="https://github.com/herrerovir/SQL-world-life-expectancy">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=SQL-world-life-expectancy&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7" />
+</a>
+</p>
+<p align="left">
+<a href="https://github.com/herrerovir/SQL-US-household-income">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=SQL-US-household-income&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/herrerovir/SQL-automated-data-cleaning">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=SQL-automated-data-cleaning&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7" />
 </a>
 </p>
