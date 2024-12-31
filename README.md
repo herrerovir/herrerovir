@@ -50,10 +50,13 @@ Data enthusiast with a background in Chemical Engineering.
 </a>
 </p>
 <p align="left">
-<a href="https://github.com/herrerovir/Python-exploratory-data-analysis-movies">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=Python-exploratory-data-analysis-movies&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7" />
+<a href="https://github.com/herrerovir/Python-movies">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=Python-movies&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7" />
 </a>
 <span>&nbsp;</span>
+<a href="https://github.com/herrerovir/Python-co2-emissions">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=Python-co2-emissions&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7" />
+</a>
 
 ## 🛢️ SQL
 <p align="left">
