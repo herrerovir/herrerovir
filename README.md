@@ -66,7 +66,9 @@ Here you can find some of the projects I have worked on to further develop my ex
 <p align="left">
 <a href="https://github.com/herrerovir/Power-BI-sports-product-sales-analysis">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=Power-BI-sports-product-sales-analysis&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7" /></a>
-<span>&nbsp;</span>
+  <span>&nbsp;</span>
+<a href="https://github.com/herrerovir/Power-BI-human-resources-analytics">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=Power-BI-human-resources-analytics&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7"/></a>
 </p>
 
 ## 🐍 Python automation
