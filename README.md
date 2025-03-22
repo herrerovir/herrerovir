@@ -50,7 +50,8 @@ Here you can find some of the projects I have worked on to further develop my ex
 <a href="https://github.com/herrerovir/ML-steel-industry-energy-consumption-forecasting">
 <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=ML-steel-industry-energy-consumption-forecasting&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7"/></a>
   <span>&nbsp;</span>
-
+<a href="https://github.com/herrerovir/ML-predictive-maintenance-of-industrial-machinery">
+<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=ML-predictive-maintenance-of-industrial-machinery&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7"/></a>
 
 ## ⚙️ SQL
 <p align="left">
