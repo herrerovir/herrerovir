@@ -1,35 +1,36 @@
 ![Top-Banner](https://github.com/user-attachments/assets/e5fe07d0-cc52-49a6-a075-b83b2d75d09a)
 
-# 👀 About me
-My name is Virginia and I am a data analyst with a background in chemical engineering.
+## 👩‍🔬 About Me
 
-* 🐍 Python enthusiast
-* 🌱 Currently learning machine learning and deep learning
-* ✨ Passionate about creating visually appealing things, e.g. code, reports, dashboards
-* 📃 I like to document all my projects to make them more understandable and useful
+I'm **Virginia**, a data scientist with a background in chemical engineering — turning data into insights, models, and beautiful dashboards is my thing.
 
-### Skills & tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikitlearn" alt="Scikitlearn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"  title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</div>
-<span>&emsp;</span>
+- 🐍 Python enthusiast with a focus on data-driven problem solving  
+- 🤖 Currently leveling up in **machine learning** and **deep learning** — always learning, always building  
+- 🎨 Big on **data visualization** — passionate about creating visually engaging content
+- 📚 I document everything — because good science (and good code) should be understandable and reusable  
 
-# 🚀 My portfolio
-Welcome to my portfolio! 
+## 🧰 Tech Toolbox
 
-Here you can find some of the projects I have worked on to further develop my expertise in **data analysis, databases and data visualization.** 
+Here are the tools and libraries I use regularly to explore data, build models, and tell compelling stories:
 
-## 🧐 Data Analysis
+- **Languages & Frameworks**  
+`Python` · `Scikit-learn` · `Keras` · `TensorFlow` · `NumPy` · `Pandas`
+
+- **Data Visualization**  
+`Matplotlib` · `Seaborn` · `Power BI` · `Dashboards`
+
+- **Databases & Querying**  
+`SQL` · `MySQL`
+
+- **Tools & Environment**  
+`Jupyter Notebooks` · `VS Code` · `Git` · `GitHub`
+
+## 🚀 Portfolio Highlights
+
+Welcome to my digital lab! Here’s a look at some of the projects where I explore, model, and visualize data:
+
+### 🧐 Exploratory Data Analysis (EDA)  
+Deep dives into datasets to uncover patterns, trends, and outliers.  
 <p align="left">
 <a href="https://github.com/herrerovir/Python-web-scraping-chemical-producers">
 <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=Python-web-scraping-chemical-producers&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7"/></a>
@@ -45,7 +46,9 @@ Here you can find some of the projects I have worked on to further develop my ex
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=Python-co2-emissions&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7"/></a>
 </p>
 
-## 👩🏻‍💻 Machine Learning
+### 🤖 Machine Learning  
+Projects that involve building, tuning, and evaluating ML models using real-world data.
+
 <p align="left">
 <a href="https://github.com/herrerovir/ML-steel-industry-energy-consumption-forecasting">
 <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=ML-steel-industry-energy-consumption-forecasting&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7"/></a>
@@ -53,7 +56,13 @@ Here you can find some of the projects I have worked on to further develop my ex
 <a href="https://github.com/herrerovir/ML-predictive-maintenance-of-industrial-machinery">
 <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=ML-predictive-maintenance-of-industrial-machinery&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7"/></a>
 
-## ⚙️ SQL
+### 🧠 Deep Learning  
+Early-stage experiments with neural networks, computer vision, and more to come.
+> *Coming soon*
+
+### ⚙️ SQL Workflows  
+Clean and efficient queries to power data pipelines and support analytics.
+
 <p align="left">
 <a href="https://github.com/herrerovir/SQL-world-layoffs">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=SQL-world-layoffs&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7" /></a>
@@ -70,7 +79,9 @@ Here you can find some of the projects I have worked on to further develop my ex
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=SQL-automated-data-cleaning&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7"/></a>
 </p>
 
-## 🔥 Power BI
+### 📊 BI & Dashboards  
+Power BI projects that bring data to life through dynamic, interactive dashboards.
+
 <p align="left">
 <a href="https://github.com/herrerovir/Power-BI-sports-product-sales-analysis">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=Power-BI-sports-product-sales-analysis&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7" /></a>
@@ -79,7 +90,9 @@ Here you can find some of the projects I have worked on to further develop my ex
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=Power-BI-human-resources-analytics&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7"/></a>
 </p>
 
-## 🐍 Python automation
+### 🐍 Python Automation  
+Automated scripts to clean data, generate reports, or streamline repetitive workflows.
+
 <p align="left">
 <a href="https://github.com/herrerovir/Gmail-weekly-email-automation">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=Gmail-weekly-email-automation&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7"/></a>
@@ -87,3 +100,9 @@ Here you can find some of the projects I have worked on to further develop my ex
 <a href="https://github.com/herrerovir/Automated-back-up-to-google-drive">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=herrerovir&repo=Automated-back-up-to-google-drive&border_color=3090C7&bg_color=0D1117&title_color=3090C7&text_color=8B949E&icon_color=3090C7"/></a>
 </p>
+
+## 🛠️ What's Next?
+
+I’m always working on something new — follow along as I keep learning, building, and sharing projects that blend code, design, and storytelling.
+
+🎯 *Let’s connect! If you’re into data, ML, or just cool visualizations — I’d love to hear from you.*
